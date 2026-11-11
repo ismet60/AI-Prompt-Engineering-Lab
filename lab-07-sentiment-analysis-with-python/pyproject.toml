@@ -1,0 +1,6 @@
+[project]
+name = "lab-07-sentiment-analysis"
+version = "0.1.0"
+description = "Sentiment analysis of sample business feedback with TextBlob"
+requires-python = ">=3.10"
+dependencies = ["textblob>=0.18,<1"]
