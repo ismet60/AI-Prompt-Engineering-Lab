@@ -1,0 +1,6 @@
+[project]
+name = "lab-05-email-text-processing"
+version = "0.1.0"
+description = "Stemming and lemmatization of business email text with NLTK"
+requires-python = ">=3.10"
+dependencies = ["nltk>=3.9,<4"]
