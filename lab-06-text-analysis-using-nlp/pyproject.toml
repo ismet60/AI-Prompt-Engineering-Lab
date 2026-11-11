@@ -1,0 +1,9 @@
+[project]
+name = "lab-927-2-1-text-analysis"
+version = "0.1.0"
+description = "Named entity recognition and part-of-speech tagging with NLTK"
+requires-python = ">=3.10"
+dependencies = [
+    "nltk>=3.9,<4",
+    "numpy>=2.2.6",
+]

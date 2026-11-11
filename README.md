@@ -18,6 +18,7 @@ A growing collection of hands-on labs in prompt design, Python, natural language
 
 | Lab | Topic | What you will explore |
 | --- | --- | --- |
+| 06 | [Text Analysis Using NLP Techniques](lab-06-text-analysis-using-nlp/) | Extract named entities and tag words with NLTK. |
 | 07 | [Sentiment Analysis with Python](lab-07-sentiment-analysis-with-python/) | Score customer feedback with TextBlob and interpret the results. |
 
 More labs will be added as they are prepared.
@@ -25,3 +26,4 @@ More labs will be added as they are prepared.
 ## Getting Started
 
 Open a lab from the table above and follow its README. Requirements vary: some labs use Python, while others focus on prompts and analysis.
+
