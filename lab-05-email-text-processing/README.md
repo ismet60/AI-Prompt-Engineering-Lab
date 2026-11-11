@@ -22,6 +22,7 @@ Process sample business emails with NLTK, compare stemming and lemmatization, an
 ## Prerequisites
 
 - Python 3.10 or later
+- Python packages: NLTK (`nltk>=3.9,<4`)
 - [uv](https://docs.astral.sh/uv/)
 - Internet access for initial dependency and NLTK data downloads
 
@@ -73,3 +74,4 @@ A simple keyword matcher assigns a sample message to **billing**, **technical is
 | `uv.lock` | Records the resolved dependency versions. |
 
 [← Back to all labs](../README.md)
+

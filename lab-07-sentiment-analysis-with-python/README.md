@@ -21,6 +21,7 @@ Analyze sample product reviews and customer feedback with TextBlob, then interpr
 ## Prerequisites
 
 - Python 3.10 or later
+- Python package: TextBlob (`textblob>=0.18,<1`)
 - [uv](https://docs.astral.sh/uv/)
 - Internet access for the first dependency installation
 
@@ -72,3 +73,4 @@ Sentiment scores help summarize feedback, but automated results may miss context
 | `screenshots/` | Shows the original setup and task results. |
 
 [← Back to all labs](../README.md)
+

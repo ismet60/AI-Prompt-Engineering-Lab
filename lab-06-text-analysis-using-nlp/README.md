@@ -21,6 +21,7 @@ Explore named entity recognition (NER) and part-of-speech (POS) tagging on sampl
 ## Prerequisites
 
 - Python 3.10 or later
+- Python packages: NLTK (`nltk>=3.9,<4`) and NumPy (`numpy>=2.2.6`)
 - [uv](https://docs.astral.sh/uv/)
 - Internet access for initial dependency and NLTK data downloads
 
@@ -68,3 +69,4 @@ NER and POS tagging help structure business text, but NLTK's predictions can be 
 | `screenshots/` | Shows the original setup and sample results. |
 
 [← Back to all labs](../README.md)
+
