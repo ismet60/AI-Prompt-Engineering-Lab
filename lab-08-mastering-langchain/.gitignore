@@ -1,0 +1,8 @@
+# Keep local working material and sensitive screenshots out of Git.
+langchain_faq.ipynb
+screenshot/3_3_API_Key.png
+*.docx
+~$*
+main.py
+task_2_langchain_faq.py
+~*.tmp
