@@ -1,0 +1,5 @@
+# The assignment dataset and local output are kept outside public commits.
+SBA927.txt
+results.txt
+.venv/
+__pycache__/

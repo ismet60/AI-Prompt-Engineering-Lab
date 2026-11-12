@@ -25,11 +25,14 @@ A growing collection of hands-on labs in prompt design, Python, natural language
 
 | 08 | [Mastering LangChain](lab-08-mastering-langchain/) | Build and evaluate customer-support prompt chains. |
 
+| 09 | [Business Text Analytics with NLP](lab-09-business-text-analytics/) | Analyze supplied text using NLP techniques (in progress). |
+
 More labs will be added as they are prepared.
 
 ## Getting Started
 
 Open a lab from the table above and follow its README. Requirements vary: some labs use Python, while others focus on prompts and analysis.
+
 
 
 
