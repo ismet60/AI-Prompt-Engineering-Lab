@@ -22,10 +22,8 @@ A growing collection of hands-on labs in prompt design, Python, natural language
 | 05 | [Email Text Processing with Python](lab-05-email-text-processing/) | Compare stemming and lemmatization on a business email. |
 | 06 | [Text Analysis Using NLP Techniques](lab-06-text-analysis-using-nlp/) | Extract named entities and tag words with NLTK. |
 | 07 | [Sentiment Analysis with Python](lab-07-sentiment-analysis-with-python/) | Score customer feedback with TextBlob and interpret the results. |
-
 | 08 | [Mastering LangChain](lab-08-mastering-langchain/) | Build and evaluate customer-support prompt chains. |
-
-| 09 | [Business Text Analytics with NLP](lab-09-business-text-analytics/) | Analyze supplied text using NLP techniques (in progress). |
+| 09 | [Business Text Analytics with NLP](lab-09-business-text-analytics-update/) | Analyze text, entities, grammar, and sentiment with NLP. |
 
 More labs will be added as they are prepared.
 
