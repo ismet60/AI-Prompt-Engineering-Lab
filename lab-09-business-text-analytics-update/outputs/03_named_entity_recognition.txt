@@ -1,0 +1,34 @@
+Named Entities in Text 1: []
+
+
+Named Entities in Text 2: [('Robot', 'PERSON'), ('Detective Del Spooner', 'PERSON')]
+
+
+Named Entities in Text 3: [('Sonny', 'PERSON')]
+
+
+Named Entities in Text 4: []
+
+
+Named Entities in Text 5: [('Virtual Interactive Kinetic', 'ORGANIZATION')]
+
+
+Named Entities in Text 6: []
+
+
+Named Entities in Text 7: [('Detective', 'PERSON'), ('Program', 'PERSON')]
+
+
+Named Entities in Text 8: [('Susan Calvin', 'PERSON')]
+
+
+Named Entities in Text 9: [('Robot', 'PERSON')]
+
+
+Named Entities in Text 10: []
+
+
+Named Entities in Text 11: [('Sonny', 'GPE')]
+
+
+Named Entities in Text 12: [('Robot', 'PERSON')]

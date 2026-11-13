@@ -1,0 +1,6 @@
+Analyze the sentiment of the following business-related text.
+
+Classify it as positive, negative, or neutral.
+Give a short explanation using words from the text.
+
+Text: {text}

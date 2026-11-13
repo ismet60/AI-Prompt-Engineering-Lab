@@ -1,0 +1,16 @@
+[project]
+name = "business-text-analytics"
+version = "0.1.0"
+description = "Business text analytics: NLP techniques (tokenization, stemming, lemmatization, NER, POS, sentiment)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "nltk>=3.9",
+]
+
+[dependency-groups]
+# Only needed to run the notebook on your own computer (not needed with a Colab server)
+notebook = [
+    "pandas>=2.0",
+    "ipykernel>=6.29",
+]

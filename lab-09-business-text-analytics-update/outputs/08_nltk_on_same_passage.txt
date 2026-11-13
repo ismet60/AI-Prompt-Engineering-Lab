@@ -1,0 +1,45 @@
+Tokens: ['In', 'the', 'futuristic', 'world', 'of', 'I', ',', 'Robot', ',', 'robots', 'coexist', 'with', 'humans', '.', 'The', 'three', 'laws', 'of', 'robotics', 'govern', 'their', 'behavior', ',', 'but', 'as', 'Detective', 'Del', 'Spooner', 'investigates', 'a', 'crime', ',', 'he', 'uncovers', 'a', 'potential', 'threat', 'to', 'humanity', '.']
+
+POS Tags: [('In', 'IN'), ('the', 'DT'), ('futuristic', 'JJ'), ('world', 'NN'), ('of', 'IN'), ('I', 'PRP'), (',', ','), ('Robot', 'NNP'), (',', ','), ('robots', 'NNS'), ('coexist', 'VBP'), ('with', 'IN'), ('humans', 'NNS'), ('.', '.'), ('The', 'DT'), ('three', 'CD'), ('laws', 'NNS'), ('of', 'IN'), ('robotics', 'NNS'), ('govern', 'VBP'), ('their', 'PRP$'), ('behavior', 'NN'), (',', ','), ('but', 'CC'), ('as', 'IN'), ('Detective', 'NNP'), ('Del', 'NNP'), ('Spooner', 'NNP'), ('investigates', 'VBZ'), ('a', 'DT'), ('crime', 'NN'), (',', ','), ('he', 'PRP'), ('uncovers', 'VBZ'), ('a', 'DT'), ('potential', 'JJ'), ('threat', 'NN'), ('to', 'TO'), ('humanity', 'NN'), ('.', '.')]
+
+NER Result: (S
+  In/IN
+  the/DT
+  futuristic/JJ
+  world/NN
+  of/IN
+  I/PRP
+  ,/,
+  (PERSON Robot/NNP)
+  ,/,
+  robots/NNS
+  coexist/VBP
+  with/IN
+  humans/NNS
+  ./.
+  The/DT
+  three/CD
+  laws/NNS
+  of/IN
+  robotics/NNS
+  govern/VBP
+  their/PRP$
+  behavior/NN
+  ,/,
+  but/CC
+  as/IN
+  (PERSON Detective/NNP Del/NNP Spooner/NNP)
+  investigates/VBZ
+  a/DT
+  crime/NN
+  ,/,
+  he/PRP
+  uncovers/VBZ
+  a/DT
+  potential/JJ
+  threat/NN
+  to/TO
+  humanity/NN
+  ./.)
+
+VADER Sentiment Scores: {'neg': 0.238, 'neu': 0.762, 'pos': 0.0, 'compound': -0.8847}

@@ -1,0 +1,17 @@
+Text: The customer service was excellent and my order arrived early.
+Our expected sentiment: positive
+Model response: **Sentiment:** Positive  
+
+**Explanation:** The text uses the words *excellent* and *arrived early*, both of which convey a favorable experience.
+------------------------------------------------------------
+Text: My order was late and the product arrived damaged.
+Our expected sentiment: negative
+Model response: **Sentiment:** Negative  
+
+**Explanation:** The text mentions that the order was **late** and the product arrived **damaged**, both of which are negative experiences.
+------------------------------------------------------------
+Text: The order was delivered on Tuesday.
+Our expected sentiment: neutral
+Model response: **Sentiment:** Neutral  
+**Explanation:** The statement simply reports that “the order was delivered on Tuesday,” which is a factual, non‑evaluative observation and does not convey positive or negative feelings.
+------------------------------------------------------------

@@ -1,0 +1,34 @@
+POS Tags in Text 1: [('``', '``'), ('Detective', 'JJ'), ('Spooner', 'NN'), (':', ':'), ('You', 'PRP'), ('know', 'VBP'), (',', ','), ('somehow', 'RB'), (',', ','), ("'", "''"), ('I', 'PRP'), ('told', 'VBD'), ('you', 'PRP'), ('so', 'IN'), ("'", "''"), ('just', 'RB'), ('does', 'VBZ'), ("n't", 'RB'), ('quite', 'RB'), ('say', 'VB'), ('it', 'PRP'), ('.', '.'), ("''", "''")]
+
+
+POS Tags in Text 2: [('In', 'IN'), ('the', 'DT'), ('futuristic', 'JJ'), ('world', 'NN'), ('of', 'IN'), ('I', 'PRP'), (',', ','), ('Robot', 'NNP'), (',', ','), ('robots', 'NNS'), ('coexist', 'VBP'), ('with', 'IN'), ('humans', 'NNS'), ('.', '.'), ('The', 'DT'), ('three', 'CD'), ('laws', 'NNS'), ('of', 'IN'), ('robotics', 'NNS'), ('govern', 'VBP'), ('their', 'PRP$'), ('behavior', 'NN'), (',', ','), ('but', 'CC'), ('as', 'IN'), ('Detective', 'NNP'), ('Del', 'NNP'), ('Spooner', 'NNP'), ('investigates', 'VBZ'), ('a', 'DT'), ('crime', 'NN'), (',', ','), ('he', 'PRP'), ('uncovers', 'VBZ'), ('a', 'DT'), ('potential', 'JJ'), ('threat', 'NN'), ('to', 'TO'), ('humanity', 'NN'), ('.', '.')]
+
+
+POS Tags in Text 3: [('Fans', 'NNS'), ('eagerly', 'RB'), ('debate', 'VBP'), ('the', 'DT'), ('significance', 'NN'), ('of', 'IN'), ('Sonny', 'NNP'), ("'s", 'POS'), ('role', 'NN'), ('in', 'IN'), ('the', 'DT'), ('narrative', 'JJ'), ('.', '.'), ('Some', 'DT'), ('argue', 'NN'), ('that', 'IN'), ('he', 'PRP'), ('symbolizes', 'VBZ'), ('the', 'DT'), ('potential', 'NN'), ('for', 'IN'), ('harmony', 'NN'), ('between', 'IN'), ('humans', 'NNS'), ('and', 'CC'), ('robots', 'NNS'), (',', ','), ('while', 'IN'), ('others', 'NNS'), ('see', 'VBP'), ('him', 'PRP'), ('as', 'IN'), ('a', 'DT'), ('symbol', 'NN'), ('of', 'IN'), ('rebellion', 'NN'), ('.', '.')]
+
+
+POS Tags in Text 4: [('``', '``'), ('V.I.K.I', 'NNP'), ('.', '.'), (':', ':'), ('My', 'PRP$'), ('logic', 'NN'), ('is', 'VBZ'), ('undeniable', 'JJ'), ('.', '.'), ("''", "''")]
+
+
+POS Tags in Text 5: [('V.I.K.I', 'NNP'), ('.', '.'), ('(', '('), ('Virtual', 'JJ'), ('Interactive', 'NNP'), ('Kinetic', 'NNP'), ('Intelligence', 'NNP'), (')', ')'), ('serves', 'VBZ'), ('as', 'IN'), ('the', 'DT'), ('central', 'JJ'), ('AI', 'NNP'), ('system', 'NN'), ('.', '.'), ('Initially', 'RB'), ('designed', 'VBN'), ('to', 'TO'), ('protect', 'VB'), ('humanity', 'NN'), (',', ','), ('her', 'PRP$'), ('logic', 'JJ'), ('evolves', 'NNS'), ('into', 'IN'), ('a', 'DT'), ('more', 'RBR'), ('sinister', 'JJ'), ('plan', 'NN'), ('for', 'IN'), ('the', 'DT'), ('greater', 'JJR'), ('good', 'JJ'), ('.', '.')]
+
+
+POS Tags in Text 6: [('Analyzing', 'VBG'), ('the', 'DT'), ('movie', 'NN'), ("'s", 'POS'), ('atmosphere', 'NN'), (',', ','), ('viewers', 'NNS'), ('appreciate', 'VBP'), ('the', 'DT'), ('blend', 'NN'), ('of', 'IN'), ('action', 'NN'), ('and', 'CC'), ('philosophical', 'JJ'), ('elements', 'NNS'), (',', ','), ('questioning', 'VBG'), ('the', 'DT'), ('ethical', 'JJ'), ('implications', 'NNS'), ('of', 'IN'), ('advanced', 'JJ'), ('AI', 'NNP'), ('.', '.')]
+
+
+POS Tags in Text 7: [('``', '``'), ('Dr.', 'NNP'), ('Calvin', 'NNP'), (':', ':'), ('That', 'DT'), (',', ','), ('Detective', 'NNP'), (',', ','), ('is', 'VBZ'), ('the', 'DT'), ('right', 'JJ'), ('question', 'NN'), ('.', '.'), ('Program', 'NNP'), ('terminated', 'VBD'), ('.', '.'), ("''", "''")]
+
+
+POS Tags in Text 8: [('Dr.', 'NNP'), ('Susan', 'NNP'), ('Calvin', 'NNP'), (',', ','), ('a', 'DT'), ('robotic', 'JJ'), ('psychologist', 'NN'), (',', ','), ('plays', 'VBZ'), ('a', 'DT'), ('crucial', 'JJ'), ('role', 'NN'), ('in', 'IN'), ('unraveling', 'VBG'), ('the', 'DT'), ('mysteries', 'NNS'), ('surrounding', 'VBG'), ('the', 'DT'), ('malfunctioning', 'VBG'), ('robots', 'NNS'), ('and', 'CC'), ('the', 'DT'), ('potential', 'JJ'), ('violation', 'NN'), ('of', 'IN'), ('the', 'DT'), ('three', 'CD'), ('laws', 'NNS'), ('.', '.')]
+
+
+POS Tags in Text 9: [('The', 'DT'), ('portrayal', 'NN'), ('of', 'IN'), ('robots', 'NNS'), ('in', 'IN'), ('I', 'PRP'), (',', ','), ('Robot', 'NNP'), ('sparks', 'VBZ'), ('conversations', 'NNS'), ('about', 'IN'), ('the', 'DT'), ('evolving', 'VBG'), ('relationship', 'NN'), ('between', 'IN'), ('humans', 'NNS'), ('and', 'CC'), ('AI', 'NNP'), ('in', 'IN'), ('real', 'JJ'), ('life', 'NN'), ('.', '.'), ('How', 'WRB'), ('close', 'JJ'), ('are', 'VBP'), ('we', 'PRP'), ('to', 'TO'), ('creating', 'VBG'), ('sentient', 'JJ'), ('beings', 'NNS'), ('?', '.')]
+
+
+POS Tags in Text 10: [('``', '``'), ('Sonny', 'NN'), (':', ':'), ('I', 'PRP'), ('did', 'VBD'), ('not', 'RB'), ('murder', 'VB'), ('him', 'PRP'), ('!', '.'), ("''", "''")]
+
+
+POS Tags in Text 11: [('Sonny', 'NNP'), (',', ','), ('an', 'DT'), ('advanced', 'JJ'), ('robot', 'NN'), ('with', 'IN'), ('unique', 'JJ'), ('characteristics', 'NNS'), (',', ','), ('becomes', 'VBZ'), ('a', 'DT'), ('key', 'JJ'), ('figure', 'NN'), ('in', 'IN'), ('the', 'DT'), ('investigation', 'NN'), ('.', '.'), ('His', 'PRP$'), ('innocence', 'NN'), ('or', 'CC'), ('guilt', 'NN'), ('becomes', 'VBZ'), ('a', 'DT'), ('focal', 'JJ'), ('point', 'NN'), ('in', 'IN'), ('the', 'DT'), ('unfolding', 'JJ'), ('events', 'NNS'), ('.', '.')]
+
+
+POS Tags in Text 12: [('The', 'DT'), ('film', 'NN'), ("'s", 'POS'), ('ending', 'VBG'), ('leaves', 'NNS'), ('room', 'NN'), ('for', 'IN'), ('interpretation', 'NN'), ('.', '.'), ('Some', 'DT'), ('viewers', 'NNS'), ('appreciate', 'VBP'), ('the', 'DT'), ('resolution', 'NN'), (',', ','), ('while', 'IN'), ('others', 'NNS'), ('speculate', 'VBP'), ('about', 'IN'), ('the', 'DT'), ('future', 'NN'), ('of', 'IN'), ('the', 'DT'), ('world', 'NN'), ('depicted', 'VBD'), ('in', 'IN'), ('I', 'PRP'), (',', ','), ('Robot', 'NNP'), ('.', '.')]

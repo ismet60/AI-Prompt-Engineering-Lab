@@ -1,0 +1,58 @@
+Original Tokens 1: ['detective', 'spooner', 'know', 'somehow', 'told', 'quite', 'say']
+Stemmed Tokens 1: ['detect', 'spooner', 'know', 'somehow', 'told', 'quit', 'say']
+Lemmatized Tokens 1: ['detective', 'spooner', 'know', 'somehow', 'told', 'quite', 'say']
+
+
+Original Tokens 2: ['futuristic', 'world', 'robot', 'robots', 'coexist', 'humans', 'three', 'laws', 'robotics', 'govern', 'behavior', 'detective', 'del', 'spooner', 'investigates', 'crime', 'uncovers', 'potential', 'threat', 'humanity']
+Stemmed Tokens 2: ['futurist', 'world', 'robot', 'robot', 'coexist', 'human', 'three', 'law', 'robot', 'govern', 'behavior', 'detect', 'del', 'spooner', 'investig', 'crime', 'uncov', 'potenti', 'threat', 'human']
+Lemmatized Tokens 2: ['futuristic', 'world', 'robot', 'robot', 'coexist', 'human', 'three', 'law', 'robotics', 'govern', 'behavior', 'detective', 'del', 'spooner', 'investigates', 'crime', 'uncovers', 'potential', 'threat', 'humanity']
+
+
+Original Tokens 3: ['fans', 'eagerly', 'debate', 'significance', 'sonny', 'role', 'narrative', 'argue', 'symbolizes', 'potential', 'harmony', 'humans', 'robots', 'others', 'see', 'symbol', 'rebellion']
+Stemmed Tokens 3: ['fan', 'eagerli', 'debat', 'signific', 'sonni', 'role', 'narr', 'argu', 'symbol', 'potenti', 'harmoni', 'human', 'robot', 'other', 'see', 'symbol', 'rebellion']
+Lemmatized Tokens 3: ['fan', 'eagerly', 'debate', 'significance', 'sonny', 'role', 'narrative', 'argue', 'symbolizes', 'potential', 'harmony', 'human', 'robot', 'others', 'see', 'symbol', 'rebellion']
+
+
+Original Tokens 4: ['logic', 'undeniable']
+Stemmed Tokens 4: ['logic', 'undeni']
+Lemmatized Tokens 4: ['logic', 'undeniable']
+
+
+Original Tokens 5: ['virtual', 'interactive', 'kinetic', 'intelligence', 'serves', 'central', 'ai', 'system', 'initially', 'designed', 'protect', 'humanity', 'logic', 'evolves', 'sinister', 'plan', 'greater', 'good']
+Stemmed Tokens 5: ['virtual', 'interact', 'kinet', 'intellig', 'serv', 'central', 'ai', 'system', 'initi', 'design', 'protect', 'human', 'logic', 'evolv', 'sinist', 'plan', 'greater', 'good']
+Lemmatized Tokens 5: ['virtual', 'interactive', 'kinetic', 'intelligence', 'serf', 'central', 'ai', 'system', 'initially', 'designed', 'protect', 'humanity', 'logic', 'evolves', 'sinister', 'plan', 'greater', 'good']
+
+
+Original Tokens 6: ['analyzing', 'movie', 'atmosphere', 'viewers', 'appreciate', 'blend', 'action', 'philosophical', 'elements', 'questioning', 'ethical', 'implications', 'advanced', 'ai']
+Stemmed Tokens 6: ['analyz', 'movi', 'atmospher', 'viewer', 'appreci', 'blend', 'action', 'philosoph', 'element', 'question', 'ethic', 'implic', 'advanc', 'ai']
+Lemmatized Tokens 6: ['analyzing', 'movie', 'atmosphere', 'viewer', 'appreciate', 'blend', 'action', 'philosophical', 'element', 'questioning', 'ethical', 'implication', 'advanced', 'ai']
+
+
+Original Tokens 7: ['calvin', 'detective', 'right', 'question', 'program', 'terminated']
+Stemmed Tokens 7: ['calvin', 'detect', 'right', 'question', 'program', 'termin']
+Lemmatized Tokens 7: ['calvin', 'detective', 'right', 'question', 'program', 'terminated']
+
+
+Original Tokens 8: ['susan', 'calvin', 'robotic', 'psychologist', 'plays', 'crucial', 'role', 'unraveling', 'mysteries', 'surrounding', 'malfunctioning', 'robots', 'potential', 'violation', 'three', 'laws']
+Stemmed Tokens 8: ['susan', 'calvin', 'robot', 'psychologist', 'play', 'crucial', 'role', 'unravel', 'mysteri', 'surround', 'malfunct', 'robot', 'potenti', 'violat', 'three', 'law']
+Lemmatized Tokens 8: ['susan', 'calvin', 'robotic', 'psychologist', 'play', 'crucial', 'role', 'unraveling', 'mystery', 'surrounding', 'malfunctioning', 'robot', 'potential', 'violation', 'three', 'law']
+
+
+Original Tokens 9: ['portrayal', 'robots', 'robot', 'sparks', 'conversations', 'evolving', 'relationship', 'humans', 'ai', 'real', 'life', 'close', 'creating', 'sentient', 'beings']
+Stemmed Tokens 9: ['portray', 'robot', 'robot', 'spark', 'convers', 'evolv', 'relationship', 'human', 'ai', 'real', 'life', 'close', 'creat', 'sentient', 'be']
+Lemmatized Tokens 9: ['portrayal', 'robot', 'robot', 'spark', 'conversation', 'evolving', 'relationship', 'human', 'ai', 'real', 'life', 'close', 'creating', 'sentient', 'being']
+
+
+Original Tokens 10: ['sonny', 'murder']
+Stemmed Tokens 10: ['sonni', 'murder']
+Lemmatized Tokens 10: ['sonny', 'murder']
+
+
+Original Tokens 11: ['sonny', 'advanced', 'robot', 'unique', 'characteristics', 'becomes', 'key', 'figure', 'investigation', 'innocence', 'guilt', 'becomes', 'focal', 'point', 'unfolding', 'events']
+Stemmed Tokens 11: ['sonni', 'advanc', 'robot', 'uniqu', 'characterist', 'becom', 'key', 'figur', 'investig', 'innoc', 'guilt', 'becom', 'focal', 'point', 'unfold', 'event']
+Lemmatized Tokens 11: ['sonny', 'advanced', 'robot', 'unique', 'characteristic', 'becomes', 'key', 'figure', 'investigation', 'innocence', 'guilt', 'becomes', 'focal', 'point', 'unfolding', 'event']
+
+
+Original Tokens 12: ['film', 'ending', 'leaves', 'room', 'interpretation', 'viewers', 'appreciate', 'resolution', 'others', 'speculate', 'future', 'world', 'depicted', 'robot']
+Stemmed Tokens 12: ['film', 'end', 'leav', 'room', 'interpret', 'viewer', 'appreci', 'resolut', 'other', 'specul', 'futur', 'world', 'depict', 'robot']
+Lemmatized Tokens 12: ['film', 'ending', 'leaf', 'room', 'interpretation', 'viewer', 'appreciate', 'resolution', 'others', 'speculate', 'future', 'world', 'depicted', 'robot']

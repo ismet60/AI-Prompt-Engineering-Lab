@@ -1,0 +1,48 @@
+Number of lines: 12
+
+Original Text 1: "Detective Spooner: You know, somehow, 'I told you so' just doesn't quite say it."
+Processed Tokens 1: ['detective', 'spooner', 'know', 'somehow', 'told', 'quite', 'say']
+
+
+Original Text 2: In the futuristic world of I, Robot, robots coexist with humans. The three laws of robotics govern their behavior, but as Detective Del Spooner investigates a crime, he uncovers a potential threat to humanity.
+Processed Tokens 2: ['futuristic', 'world', 'robot', 'robots', 'coexist', 'humans', 'three', 'laws', 'robotics', 'govern', 'behavior', 'detective', 'del', 'spooner', 'investigates', 'crime', 'uncovers', 'potential', 'threat', 'humanity']
+
+
+Original Text 3: Fans eagerly debate the significance of Sonny's role in the narrative. Some argue that he symbolizes the potential for harmony between humans and robots, while others see him as a symbol of rebellion.
+Processed Tokens 3: ['fans', 'eagerly', 'debate', 'significance', 'sonny', 'role', 'narrative', 'argue', 'symbolizes', 'potential', 'harmony', 'humans', 'robots', 'others', 'see', 'symbol', 'rebellion']
+
+
+Original Text 4: "V.I.K.I.: My logic is undeniable."
+Processed Tokens 4: ['logic', 'undeniable']
+
+
+Original Text 5: V.I.K.I. (Virtual Interactive Kinetic Intelligence) serves as the central AI system. Initially designed to protect humanity, her logic evolves into a more sinister plan for the greater good.
+Processed Tokens 5: ['virtual', 'interactive', 'kinetic', 'intelligence', 'serves', 'central', 'ai', 'system', 'initially', 'designed', 'protect', 'humanity', 'logic', 'evolves', 'sinister', 'plan', 'greater', 'good']
+
+
+Original Text 6: Analyzing the movie's atmosphere, viewers appreciate the blend of action and philosophical elements, questioning the ethical implications of advanced AI.
+Processed Tokens 6: ['analyzing', 'movie', 'atmosphere', 'viewers', 'appreciate', 'blend', 'action', 'philosophical', 'elements', 'questioning', 'ethical', 'implications', 'advanced', 'ai']
+
+
+Original Text 7: "Dr. Calvin: That, Detective, is the right question. Program terminated."
+Processed Tokens 7: ['calvin', 'detective', 'right', 'question', 'program', 'terminated']
+
+
+Original Text 8: Dr. Susan Calvin, a robotic psychologist, plays a crucial role in unraveling the mysteries surrounding the malfunctioning robots and the potential violation of the three laws.
+Processed Tokens 8: ['susan', 'calvin', 'robotic', 'psychologist', 'plays', 'crucial', 'role', 'unraveling', 'mysteries', 'surrounding', 'malfunctioning', 'robots', 'potential', 'violation', 'three', 'laws']
+
+
+Original Text 9: The portrayal of robots in I, Robot sparks conversations about the evolving relationship between humans and AI in real life. How close are we to creating sentient beings?
+Processed Tokens 9: ['portrayal', 'robots', 'robot', 'sparks', 'conversations', 'evolving', 'relationship', 'humans', 'ai', 'real', 'life', 'close', 'creating', 'sentient', 'beings']
+
+
+Original Text 10: "Sonny: I did not murder him!"
+Processed Tokens 10: ['sonny', 'murder']
+
+
+Original Text 11: Sonny, an advanced robot with unique characteristics, becomes a key figure in the investigation. His innocence or guilt becomes a focal point in the unfolding events.
+Processed Tokens 11: ['sonny', 'advanced', 'robot', 'unique', 'characteristics', 'becomes', 'key', 'figure', 'investigation', 'innocence', 'guilt', 'becomes', 'focal', 'point', 'unfolding', 'events']
+
+
+Original Text 12: The film's ending leaves room for interpretation. Some viewers appreciate the resolution, while others speculate about the future of the world depicted in I, Robot.
+Processed Tokens 12: ['film', 'ending', 'leaves', 'room', 'interpretation', 'viewers', 'appreciate', 'resolution', 'others', 'speculate', 'future', 'world', 'depicted', 'robot']

@@ -1,0 +1,24 @@
+Dataset passage: In the futuristic world of I, Robot, robots coexist with humans. The three laws of robotics govern their behavior, but as Detective Del Spooner investigates a crime, he uncovers a potential threat to humanity.
+
+Model response:
+**1. Named entities & categories**
+
+| Entity | Category |
+|--------|----------|
+| I, Robot | Title (Film/Book) |
+| Detective Del Spooner | Person (Character) |
+| robots | Object / Non‑human entity |
+| humans | Group / Human entity |
+| three laws of robotics | Concept / Rule set |
+
+**2. Sentiment**
+
+- **Neutral**
+
+**3. Explanation**
+
+The passage merely describes a setting and a plot element without expressing any positive or negative evaluation. It states facts about coexistence, laws, and a detective’s investigation, which is characteristic of a neutral tone.
+
+**4. Uncertainty**
+
+I am confident in the analysis.
